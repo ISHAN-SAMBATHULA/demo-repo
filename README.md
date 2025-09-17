@@ -1,3 +1,3 @@
 # demo-repo
 Demo repositary
-Author - Ishan
+Author - Ishan(arjun)
